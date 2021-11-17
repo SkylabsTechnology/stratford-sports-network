@@ -1,0 +1,7 @@
+{
+  "name": "StratfordSportsNetwork",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular"
+}

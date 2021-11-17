@@ -1,0 +1,6 @@
+{
+	"appId": "io.ionic.starter",
+	"appName": "StratfordSportsNetwork",
+	"webDir": "www",
+	"bundledWebRuntime": false
+}
