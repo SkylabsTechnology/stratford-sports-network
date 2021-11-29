@@ -1,0 +1,40 @@
+.listen-wrapper {
+    display: block;
+    width: 100%;
+}
+.listen-container {
+    display: block;
+    float: left;
+    width: 100%;
+}
+
+.body-container {
+    display: block;
+    float: left;
+    width: 92%;
+    margin: 5% 4%;
+}
+.audio-container {
+    display: block;
+    position: absolute;
+    bottom: 20px;
+    width: 100%;
+}
+.audio-container audio {
+    margin: 0 5%;
+    width: 90%;
+    border-radius: 30px;
+    border-style: solid;
+    border-width: 5px;
+}
+.audio-active {
+    border-color: #190cf4;
+}
+.audio-inactive {
+    border-color: #f44336;
+}
+.audio-container p {
+    width: 90%;
+    margin: 10px auto;
+    text-align: center;
+}

@@ -1,0 +1,24 @@
+<ion-header [translucent]="true">
+  <ion-toolbar>
+    <ion-title>
+      Social
+    </ion-title>
+  </ion-toolbar>
+</ion-header>
+
+<ion-content [fullscreen]="true">
+  <ion-list>
+    <ion-item button (click)='socialLink("facebook")'>
+        <ion-icon slot="start" name="logo-facebook"></ion-icon>
+        <ion-text>Facebook</ion-text>
+    </ion-item>
+    <!-- <ion-item button (click)='socialLink("instagram")'>
+      <ion-icon slot="start" name="logo-instagram"></ion-icon>
+      <ion-text>Instagram</ion-text>
+    </ion-item> -->
+    <ion-item button (click)='socialLink("web")'>
+      <ion-icon slot="start" name="globe-outline"></ion-icon>
+      <ion-text>Website</ion-text>
+    </ion-item>
+  </ion-list>
+</ion-content>
