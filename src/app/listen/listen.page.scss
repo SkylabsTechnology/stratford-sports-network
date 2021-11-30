@@ -32,6 +32,7 @@
 }
 .audio-inactive {
     border-color: #f44336;
+    pointer-events: none;
 }
 .audio-container p {
     width: 90%;
