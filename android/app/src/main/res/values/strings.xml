@@ -1,7 +1,0 @@
-<?xml version='1.0' encoding='utf-8'?>
-<resources>
-    <string name="app_name">StratfordSportsNetwork</string>
-    <string name="title_activity_main">StratfordSportsNetwork</string>
-    <string name="package_name">io.skylabstest.stratfordsportsnetwork</string>
-    <string name="custom_url_scheme">io.skylabstest.stratfordsportsnetwork</string>
-</resources>
